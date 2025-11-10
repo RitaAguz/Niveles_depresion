@@ -1,6 +1,6 @@
 # Seminarios ¿Influye la carrera universitaria en los niveles de depresión?
 ## Autores
-Margarita Aguzarova
+Margarita Aguzarova y Carlota Mendoza Hurtado
 
 ## Objetivo
 
