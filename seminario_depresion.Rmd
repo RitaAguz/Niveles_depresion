@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 # NO USAR RUN EN EL RMD, DEBES USAR KNIT PARA QUE SE EJECUTE NICE!!!!!!!!!!!!!
+# cambio comprobacion conexion
 
 
 
