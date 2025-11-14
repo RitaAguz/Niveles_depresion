@@ -1,5 +1,5 @@
 ---
-title: "seminario_depresion"
+title: "seminario_depresion............................................"
 author: "Margarita_Auguzarova_Carlota_Mendoza"
 date: "2025-11-11"
 output: html_document
