@@ -9,6 +9,10 @@
 # User-specific files
 .Ruserdata
 
+# Ignore el directorio Datos
+INPUT/Data/Datos_Grado_Depresion/
+
+
 # Example code in package build process
 *-Ex.R
 
