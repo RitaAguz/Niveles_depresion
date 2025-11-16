@@ -28,6 +28,35 @@ Determinar la relación existente entre la rama de estudio (Ciencias de la Salud
 3. **Caracterización socioambiental:** Analizar y visualizar los niveles de depresión de estudiantes egresados y matriculados dependiendo de donde se realizaron los estudios.
 4. **Correlación total:** Determinar si existe una correlación estadísticamente significativa entre la rama de estudio y la salud mental, y evaluar si esta relación se ve modificada o amplificada por las variables socioambientales.
 
+##cambio
+
+## Qué se sabe
+
+En varios artículos científicos recientes— y no tan recientes— se ha visto un incremento en la prevalencia de ansiedad y depresión entre estudiantes universitarios.
+Algunos de los artículos recientes que evidencian este crecimiento:
+
+1. [College nursing students' prevalence of depressive symptoms and associated factors](https://pubmed.ncbi.nlm.nih.gov/41239613/)
+2. [Prevalence of depression among university students in China: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36458692/)
+3. [Food consumption associated with depression, anxiety and stress in students entering a public university](https://pubmed.ncbi.nlm.nih.gov/39943931/)
+4. [The Prevalence of Depression, Anxiety and Stress and Their Associated Factors in College Students](https://pubmed.ncbi.nlm.nih.gov/32987932/)
+
+Aunque se han dado pocos ejemplos, la realidad es que los niveles de malestar psicológico han aumentado. Siendo la pandemia de COVID-19, otro factor a tener en cuenta. 
+
+Esta situación, cuando no se atiende adecuadamente, puede derivar en comportamientos de riesgo como el consumo excesivo de alcohol u otras conductas autodestructivas.
+
+## Qué no se sabe
+
+A pesar de la abundantes investigaciones sobre la salud mental, persisten preguntas relevantes. 
+En particular, se desconoce hasta qué punto factores específicos —como la rama académica elegida o el país donde se cursan los estudios— pueden influir en los niveles de depresión o ansiedad.
+
+Estos factores podrían actuar como fuentes adicionales de estrés, considerando que las distintas disciplinas presentan demandas y estructuras formativas muy diferentes. Asimismo, las condiciones socioambientales del país o región (calidad de vida, modelos educativos, presión social, características del campus, entre otros aspectos) podrían desempeñar un papel importante en la experiencia emocional de los estudiantes. 
+
+Este vacío de conocimiento motiva la necesidad de un análisis más desagregado y contextualizado.
+
+Aclaración: Debido al nivel ambicioso de esta investigación, se ha acortado a un estudio en paises de Europa.
+
+
+
 #--------------------cosas que quitaremos-----------------------
 # NO USAR RUN EN EL RMD, DEBES USAR KNIT PARA QUE SE EJECUTE NICE!!!!!!!!!!!!!
 # COSAS QUE R PONE COMO EJEMPLO, NO TOCAR POR SI ACASO
