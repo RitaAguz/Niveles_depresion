@@ -1,24 +1,35 @@
 ---
-title: "seminario_depresion............................................"
-author: "Margarita_Auguzarova_Carlota_Mendoza"
-date: "2025-11-11"
-output: html_document
+title: "Niveles de Depresión según la Trayectoria Académica en Europa: Análisis de matriculados y egresados."
+author: "Margarita Auguzarova - Carlota Mendoza"
+output:
+  html_document: # Le dice que genere un HTML
+    toc: true # Tabla de Contenidos (Índice)
+    theme: journal # Estilo visual
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+library(jsonstat)
+library(tidyverse)
 
-## R Markdown
 
+
+## Contexto
+
+La etapa universitaria suele representarse como un periodo de independencia, descubrimiento y nuevas experiencias. Sin embargo, para una parte importante de estudiantes, esta etapa también significa elevados niveles de presión académica e incertidumbre sobre el futuro laboral. Todos estos factores se combinan para generar un entorno que puede afectar de manera significativa a la salud mental de los estudiantes derivando en conductas autodestructivas.
+
+
+## Objetivo General
+
+Determinar la relación existente entre la rama de estudio (Ciencias de la Salud, Ingeniería, Humanidades, Ciencias Sociales, etc.) y los niveles de depresión en estudiantes universitarios matriculados y egresados en Europa.
+
+## Objetivos Específicos
+
+1. **Primero - Generalización:** Analizar y visualizar la prevalencia de depresión en la población universitariia de forma general en egresados y matriculados.
+2. **Caracterización por rama académica:** Analizar y visualizar las diferencias en depresión entre las distintas ramas de estudio de egresados y matriculados.
+3. **Caracterización socioambiental:** Analizar y visualizar los niveles de depresión de estudiantes egresados y matriculados dependiendo de donde se realizaron los estudios.
+4. **Correlación total:** Determinar si existe una correlación estadísticamente significativa entre la rama de estudio y la salud mental, y evaluar si esta relación se ve modificada o amplificada por las variables socioambientales.
+
+#--------------------cosas que quitaremos-----------------------
 # NO USAR RUN EN EL RMD, DEBES USAR KNIT PARA QUE SE EJECUTE NICE!!!!!!!!!!!!!
-# cambio comprobacion conexion
-
-
-
-
-
-
 # COSAS QUE R PONE COMO EJEMPLO, NO TOCAR POR SI ACASO
 ```{r cars}
 summary(cars)
