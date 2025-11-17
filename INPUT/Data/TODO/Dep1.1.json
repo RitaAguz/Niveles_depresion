@@ -1,0 +1,3266 @@
+[
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU27_2020",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU27_2020",
+      "time": 2019
+    },
+    "point": {
+      "value": 6.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU28",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU28",
+      "time": 2019
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BE",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BE",
+      "time": 2019
+    },
+    "point": {
+      "value": 8.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BG",
+      "time": 2014
+    },
+    "point": {
+      "value": 7.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BG",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CZ",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CZ",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DK",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DK",
+      "time": 2019
+    },
+    "point": {
+      "value": 7.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DE",
+      "time": 2014
+    },
+    "point": {
+      "value": 8.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DE",
+      "time": 2019
+    },
+    "point": {
+      "value": 8.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EE",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EE",
+      "time": 2019
+    },
+    "point": {
+      "value": 7.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IE",
+      "time": 2014
+    },
+    "point": {
+      "value": 5.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IE",
+      "time": 2019
+    },
+    "point": {
+      "value": 5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EL",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EL",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "ES",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "ES",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FR",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FR",
+      "time": 2019
+    },
+    "point": {
+      "value": 10,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HR",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HR",
+      "time": 2019
+    },
+    "point": {
+      "value": 8.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IT",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IT",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CY",
+      "time": 2014
+    },
+    "point": {
+      "value": 5.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CY",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LV",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LV",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LT",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LT",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LU",
+      "time": 2014
+    },
+    "point": {
+      "value": 8.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LU",
+      "time": 2019
+    },
+    "point": {
+      "value": 8.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HU",
+      "time": 2014
+    },
+    "point": {
+      "value": 10.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HU",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "MT",
+      "time": 2014
+    },
+    "point": {
+      "value": 5.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "MT",
+      "time": 2019
+    },
+    "point": {
+      "value": 9.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NL",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NL",
+      "time": 2019
+    },
+    "point": {
+      "value": 7.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "AT",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "AT",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PL",
+      "time": 2014
+    },
+    "point": {
+      "value": 5.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PL",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PT",
+      "time": 2014
+    },
+    "point": {
+      "value": 10.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PT",
+      "time": 2019
+    },
+    "point": {
+      "value": 8.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RO",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RO",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SI",
+      "time": 2014
+    },
+    "point": {
+      "value": 5.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SI",
+      "time": 2019
+    },
+    "point": {
+      "value": 7.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SK",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SK",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FI",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FI",
+      "time": 2019
+    },
+    "point": {
+      "value": 6.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SE",
+      "time": 2014
+    },
+    "point": {
+      "value": 8.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SE",
+      "time": 2019
+    },
+    "point": {
+      "value": 9.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IS",
+      "time": 2014
+    },
+    "point": {
+      "value": 8.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IS",
+      "time": 2019
+    },
+    "point": {
+      "value": 7.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NO",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NO",
+      "time": 2019
+    },
+    "point": {
+      "value": 0,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "UK",
+      "time": 2014
+    },
+    "point": {
+      "value": 8.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "UK",
+      "time": 2019
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RS",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RS",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "TR",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "TR",
+      "time": 2019
+    },
+    "point": {
+      "value": 6.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU27_2020",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU27_2020",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU28",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU28",
+      "time": 2019
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BE",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BE",
+      "time": 2019
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BG",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BG",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CZ",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CZ",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DK",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DK",
+      "time": 2019
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DE",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DE",
+      "time": 2019
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EE",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EE",
+      "time": 2019
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IE",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IE",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EL",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EL",
+      "time": 2019
+    },
+    "point": {
+      "value": 0.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "ES",
+      "time": 2014
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "ES",
+      "time": 2019
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FR",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FR",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HR",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HR",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IT",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IT",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CY",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CY",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LV",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LV",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LT",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LT",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LU",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LU",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HU",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HU",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "MT",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "MT",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NL",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NL",
+      "time": 2019
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "AT",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "AT",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PL",
+      "time": 2014
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PL",
+      "time": 2019
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PT",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PT",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RO",
+      "time": 2014
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RO",
+      "time": 2019
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SI",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SI",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SK",
+      "time": 2014
+    },
+    "point": {
+      "value": 1.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SK",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FI",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FI",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SE",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SE",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IS",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IS",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NO",
+      "time": 2014
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NO",
+      "time": 2019
+    },
+    "point": {
+      "value": 0,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "UK",
+      "time": 2014
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "UK",
+      "time": 2019
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RS",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RS",
+      "time": 2019
+    },
+    "point": {
+      "value": 0.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "TR",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_MJR",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "TR",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU27_2020",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU27_2020",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU28",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EU28",
+      "time": 2019
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BE",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BE",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BG",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "BG",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CZ",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CZ",
+      "time": 2019
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DK",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DK",
+      "time": 2019
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DE",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "DE",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EE",
+      "time": 2014
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EE",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IE",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IE",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EL",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "EL",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "ES",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "ES",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FR",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FR",
+      "time": 2019
+    },
+    "point": {
+      "value": 6.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HR",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HR",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IT",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IT",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CY",
+      "time": 2014
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "CY",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LV",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LV",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LT",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LT",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LU",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "LU",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HU",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "HU",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "MT",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "MT",
+      "time": 2019
+    },
+    "point": {
+      "value": 7.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NL",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NL",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "AT",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "AT",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PL",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PL",
+      "time": 2019
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PT",
+      "time": 2014
+    },
+    "point": {
+      "value": 6.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "PT",
+      "time": 2019
+    },
+    "point": {
+      "value": 5.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RO",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RO",
+      "time": 2019
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SI",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SI",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SK",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SK",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FI",
+      "time": 2014
+    },
+    "point": {
+      "value": 2.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "FI",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SE",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "SE",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IS",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "IS",
+      "time": 2019
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NO",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "NO",
+      "time": 2019
+    },
+    "point": {
+      "value": 0,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "UK",
+      "time": 2014
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "UK",
+      "time": 2019
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RS",
+      "time": 2014
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "RS",
+      "time": 2019
+    },
+    "point": {
+      "value": 1.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "TR",
+      "time": 2014
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "freq": "A",
+      "hlth_pb": "DPR_OTH",
+      "sex": "T",
+      "age": "TOTAL",
+      "c_birth": "NAT",
+      "unit": "PC",
+      "geo": "TR",
+      "time": 2019
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  }
+]

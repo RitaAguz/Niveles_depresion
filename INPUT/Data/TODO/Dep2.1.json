@@ -1,0 +1,3266 @@
+[
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.7,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 7.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 8.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 9.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 10.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 8.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 10.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 10.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 8.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 6.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 9.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 10.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 8.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 6.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 8.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 6.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.9,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 0.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 0.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Major depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.8,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.7,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.1,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.2,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.8,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.6,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.5,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 4.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 4.4,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1.3,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 3.9,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Percentage",
+      "International Standard Classification of Education (ISCED 2011)": "All ISCED 2011 levels",
+      "Health problems": "Other depressive symptoms",
+      "Sex": "Total",
+      "Age class": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3.5,
+      "status": null
+    }
+  }
+]

@@ -1,0 +1,4 @@
+Current depressive symptoms by sex, age and country of birth
+Current depressive symptoms by sex, age and educational attainment level
+Graduates by education level, programme orientation, sex and field of education
+Students enrolled in tertiary education by education level, programme orientation, sex and age

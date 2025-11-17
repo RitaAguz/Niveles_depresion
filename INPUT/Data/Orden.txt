@@ -1,0 +1,15 @@
+## 1. Introducción
+	### 1.1 Qué se sabe
+	### 1.2 Qué no se sabe
+## 2. Objetivo General
+## 3. Objetivos Específicos
+## 4. Metodología
+	### 4.1 Cargar paquetes
+	### 4.2 Obtención de datos
+	### 4.3 Pequeña visualización de los json
+	### 4.4 Limpieza y preparación de datos.
+		#### 4.4.1 Limpieza y estandarización de df_depresion_pais y df_depresion_edu
+		#### 4.4.2 Limpieza y estandarización de df_egresados y df_matriculados
+
+## 5. Análisis y preparación de Datos
+	### 5.1 Objetivo 1: 

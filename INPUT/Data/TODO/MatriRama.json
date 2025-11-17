@@ -1,0 +1,6152 @@
+[
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 17212746,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 17215035,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 17202658,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 17341034,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 17502335,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 16863737,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 18010667,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 18529195,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 17803433,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 27 countries (from 2020)",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 18822775,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 19565679,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 19545882,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 19581325,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 19772920,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 19969421,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 19482024,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2020"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2021"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2022"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "European Union - 28 countries (2013-2020)",
+      "Time": "2023"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 495910,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 504745,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 508270,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 526760,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 515530,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 519212,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 521201,
+      "status": "bd"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 539777,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 549399,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Belgium",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 550999,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 283294,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 278953,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 266707,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 249937,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 236335,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 229464,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 226608,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 226361,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 226981,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bulgaria",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 221330,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 418624,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 395529,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 371948,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 352873,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 329036,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 319343,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 318679,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 328830,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 337952,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Czechia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 338556,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 301399,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 313756,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 314822,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 312379,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 310903,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 308567,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 307632,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 308152,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 309576,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Denmark",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 298347,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2912204,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 2977781,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 3043084,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 3091694,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 3127927,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 3296249,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 3280033,
+      "status": "bd"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 3351573,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 3362739,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Germany",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 3336119,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 59998,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 55214,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 50595,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 47390,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 45773,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 45484,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 44873,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 44939,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 44319,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Estonia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 43852,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 203912,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 214632,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 218411,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 225031,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 231201,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 232512,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 236680,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 249569,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 247231,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Ireland",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 242740,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 677429,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 690868,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 709488,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 735027,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 766874,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 794107,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 802365,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 843832,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 872828,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Greece",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 872882,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1982162,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 1963924,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 1968702,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 2010183,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 2051826,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2083979,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 2145333,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 2261063,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 2309272,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Spain",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 2371854,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2388880,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 2424158,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 2480186,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 2532831,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 2618729,
+      "status": "b"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2685408,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 2748317,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 2809289,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 2883412,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "France",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 2852670,
+      "status": "bd"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 165161,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 162022,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 162018,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 165197,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 164826,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 163867,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 161627,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 161077,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 161086,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Croatia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 158754,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1849159,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 1826477,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 1815950,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 1837051,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 1895990,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1937761,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 2030768,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 2096778,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 2145733,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Italy",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 2217211,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 33674,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 37166,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 40347,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 45263,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 47169,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 50211,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 53192,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 53508,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 52996,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Cyprus",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 52936,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 89671,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 85881,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 84282,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 82914,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 81602,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 80355,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 79408,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 78548,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 77376,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Latvia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 75368,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 148389,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 140629,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 133759,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 125863,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 118287,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 111768,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 106455,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 104897,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 104052,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Lithuania",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 102916,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 6788,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 6896,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 6954,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 7058,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 7043,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7102,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 7444,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 7665,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 7736,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Luxembourg",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 7975,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 329455,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 307729,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 295328,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 287018,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 283350,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 281461,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 285110,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 287493,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 293566,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Hungary",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 289991,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 12610,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 13216,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 13764,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 14511,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 15510,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 16442,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 17430,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 18336,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 19035,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Malta",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 21120,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 702183,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 842601,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 836946,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 875455,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 889506,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 913150,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 937421,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 987564,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2022"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Netherlands",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 985327,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 421225,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 425972,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 431125,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 430370,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 430195,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 423049,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 422032,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 438383,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 439477,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Austria",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 436100,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 1762666,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 1665305,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 1600208,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 1550203,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 1492899,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 1430981,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 1390019,
+      "status": "e"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 1347799,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 1365740,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Poland",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 1355620,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 362200,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 337507,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 343117,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 346963,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 356390,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 368181,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 380235,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 403746,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 417215,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Portugal",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 428206,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 578706,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 541653,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 535218,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 531586,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 538871,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 533749,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 543299,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 560490,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 554007,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Romania",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 538720,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 92769,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 85616,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 80798,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 79547,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 76534,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 75991,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 76728,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 82694,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 81715,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovenia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 79987,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 197854,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 184390,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 167280,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 156048,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 144447,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 140809,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 138407,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 140992,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 140236,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Slovakia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 139694,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 306080,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 302478,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 297163,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 295528,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 294516,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 295451,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 295924,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 305370,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 315604,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Finland",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 327673,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 429444,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 429937,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 426188,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 426354,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 431065,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 432233,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 453448,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 490470,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 484150,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Sweden",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 475828,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 19901,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 18940,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 18590,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 17967,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 17835,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 18297,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 19222,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 22034,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 21882,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Iceland",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 20287,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 830,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 750,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 774,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 799,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 850,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 911,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 918,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 971,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 968,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Liechtenstein",
+      "Time": "2023"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 264207,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 268231,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 277449,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 284042,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 288739,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 290014,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 294043,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 311592,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 320418,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Norway",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 313273,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 289722,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 294450,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 295149,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 300618,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 306743,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 312933,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 319534,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 332380,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 339009,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Switzerland",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 335665,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 2349854,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 2330847,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 2378667,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 2431886,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 2467086,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 2618287,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2020"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2021"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2022"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "United Kingdom",
+      "Time": "2023"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2015"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2016"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2017"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 95142,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 89016,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 82909,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 82744,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 79148,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Bosnia and Herzegovina",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 76962,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2015"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 24643,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 25014,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 23826,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 22709,
+      "status": "d"
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 22963,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 22700,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2022"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Montenegro",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 21177,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 60572,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 63543,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 63252,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 61488,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 60110,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 56685,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 56141,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 55230,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 56102,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "North Macedonia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 58334,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Georgia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 181360,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2014"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2015"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2016"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2017"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2018"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2019"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2020"
+    },
+    "point": {
+      "value": null,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 123797,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 123880,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Albania",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 121352,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 242848,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 241054,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 251162,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 262108,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 256172,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 249771,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 241968,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 242550,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 243952,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Serbia",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 248508,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2014"
+    },
+    "point": {
+      "value": 5472521,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2015"
+    },
+    "point": {
+      "value": 6062886,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2016"
+    },
+    "point": {
+      "value": 6689185,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2017"
+    },
+    "point": {
+      "value": 7198987,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2018"
+    },
+    "point": {
+      "value": 7560371,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2019"
+    },
+    "point": {
+      "value": 7775381,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2020"
+    },
+    "point": {
+      "value": 7976064,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2021"
+    },
+    "point": {
+      "value": 8280595,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2022"
+    },
+    "point": {
+      "value": 8296959,
+      "status": null
+    }
+  },
+  {
+    "coord": {
+      "Time frequency": "Annual",
+      "Unit of measure": "Number",
+      "ISCED Fields of education and training (ISCED-F 2013)": "Total",
+      "International Standard Classification of Education (ISCED 2011)": "Tertiary education (levels 5-8)",
+      "Sex": "Total",
+      "Geopolitical entity (reporting)": "Türkiye",
+      "Time": "2023"
+    },
+    "point": {
+      "value": 6995402,
+      "status": null
+    }
+  }
+]
