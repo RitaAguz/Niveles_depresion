@@ -1,36 +1,20 @@
 ---
 title: "Niveles de Depresión según la Trayectoria Académica en Europa: Análisis de matriculados y egresados."
-author: "Margarita Auguzarova - Carlota Mendoza"
+author: "Margarita Auguzarova - Carlota Mendoza Hurtado"
 output:
-  html_document: # Le dice que genere un HTML
+  html_document: # genera HTML
     toc: true # Tabla de Contenidos (Índice)
     theme: journal # Estilo visual
 ---
 
-library(jsonstat)
-library(tidyverse)
+## Enlace al repositorio
+[GitHub Niveles_depresion](https://github.com/RitaAguz/Niveles_depresion.git)
 
-
-
-## Contexto
+## 1. Introducción
 
 La etapa universitaria suele representarse como un periodo de independencia, descubrimiento y nuevas experiencias. Sin embargo, para una parte importante de estudiantes, esta etapa también significa elevados niveles de presión académica e incertidumbre sobre el futuro laboral. Todos estos factores se combinan para generar un entorno que puede afectar de manera significativa a la salud mental de los estudiantes derivando en conductas autodestructivas.
 
-
-## Objetivo General
-
-Determinar la relación existente entre la rama de estudio (Ciencias de la Salud, Ingeniería, Humanidades, Ciencias Sociales, etc.) y los niveles de depresión en estudiantes universitarios matriculados y egresados en Europa.
-
-## Objetivos Específicos
-
-1. **Primero - Generalización:** Analizar y visualizar la prevalencia de depresión en la población universitariia de forma general en egresados y matriculados.
-2. **Caracterización por rama académica:** Analizar y visualizar las diferencias en depresión entre las distintas ramas de estudio de egresados y matriculados.
-3. **Caracterización socioambiental:** Analizar y visualizar los niveles de depresión de estudiantes egresados y matriculados dependiendo de donde se realizaron los estudios.
-4. **Correlación total:** Determinar si existe una correlación estadísticamente significativa entre la rama de estudio y la salud mental, y evaluar si esta relación se ve modificada o amplificada por las variables socioambientales.
-
-##cambio
-
-## Qué se sabe
+### 1.1 Qué se sabe
 
 En varios artículos científicos recientes— y no tan recientes— se ha visto un incremento en la prevalencia de ansiedad y depresión entre estudiantes universitarios.
 Algunos de los artículos recientes que evidencian este crecimiento:
@@ -42,9 +26,9 @@ Algunos de los artículos recientes que evidencian este crecimiento:
 
 Aunque se han dado pocos ejemplos, la realidad es que los niveles de malestar psicológico han aumentado. Siendo la pandemia de COVID-19, otro factor a tener en cuenta. 
 
-Esta situación, cuando no se atiende adecuadamente, puede derivar en comportamientos de riesgo como el consumo excesivo de alcohol u otras conductas autodestructivas.
+*Esta situación, cuando no se atiende adecuadamente, puede derivar en comportamientos de riesgo como el consumo excesivo de alcohol u otras conductas autodestructivas*.
 
-## Qué no se sabe
+### 1.2 Qué no se sabe
 
 A pesar de la abundantes investigaciones sobre la salud mental, persisten preguntas relevantes. 
 En particular, se desconoce hasta qué punto factores específicos —como la rama académica elegida o el país donde se cursan los estudios— pueden influir en los niveles de depresión o ansiedad.
@@ -53,23 +37,59 @@ Estos factores podrían actuar como fuentes adicionales de estrés, considerando
 
 Este vacío de conocimiento motiva la necesidad de un análisis más desagregado y contextualizado.
 
-Aclaración: Debido al nivel ambicioso de esta investigación, se ha acortado a un estudio en paises de Europa.
+*Aclaración: Debido al nivel ambicioso de esta investigación, se ha acortado a un estudio en paises de Europa.*
 
 
+## 2. Objetivo General
 
-#--------------------cosas que quitaremos-----------------------
-# NO USAR RUN EN EL RMD, DEBES USAR KNIT PARA QUE SE EJECUTE NICE!!!!!!!!!!!!!
-# COSAS QUE R PONE COMO EJEMPLO, NO TOCAR POR SI ACASO
-```{r cars}
-summary(cars)
+Determinar la relación existente entre la rama de estudio (Ciencias de la Salud, Ingeniería, Humanidades, Ciencias Sociales, etc.) y los niveles de depresión en estudiantes universitarios matriculados y egresados en Europa.
+
+## 3. Objetivos Específicos
+
+1. **¿Cuál es la prevalencia de depresión general entre los estudiantes universiatios europeos? ¿Y los graduados?** Analizar y visualizar la prevalencia de depresión en la población universitaria europea respecto a variables sociodemográficas. (sexo, edad y país)
+
+2. **¿Cuáles son las ramas de estudio con mayor/menor número de matriculados y egresados en los países analizados? Demanda general.** Analizar y visualizar la distribución de los estudiantes matriculados y egresados según la rama de estudio, país y año.
+
+3. **¿Existe una correlación estadísticamente significativa entre el número de matriculados/egresados en una rama de estudio y la prevalencia de síntomas depresivos a nivel general?¿Y en cada país?** Determinar si existe una correlación estadísticamente significativa entre la rama de estudio y la salud mental, y evaluar si esta relación se ve modificada o amplificada por las variables socioambientales.
+
+## 4. Metodología
+
+### 4.1 Cargar paquetes
+
+Aquí se recogen todos los paquetes utilizados para la realización de la práctica.
+
+```{r,message=FALSE, warning=FALSE}
+
+library(dplyr)
+library(stringr)
+library(shiny)
+library(ggplot2)
+library(plotly)
+library(tidyr)
+library(countrycode)
+library(DT)
+library(readr)
+library(eurostat)
+library(jsonlite)
+library(rjson)
+library(tidyjson)
+library(tibble)
+
+```
+### 4.2 Obtención de datos
+
+1. Síntomas depresivos actuales según sexo, edad y país de nacimiento.
+2. Síntomas depresivos actuales según sexo, edad y nivel educativo.
+3. Egresados según nivel educativo, programa de estudios, sexo y área de estudio.
+4. Estudiantes matriculados en educación superior según nivel educativo, programa de estudios, sexo y edad.
+
+```{r}
+df_depresion_pais <- jsonlite::fromJSON("OUTPUT/JSON_Planos/DepresionPais_flat.json")
+df_depresion_edu <- jsonlite::fromJSON("OUTPUT/JSON_Planos/DepresionEducacion_flat.json")
+df_egresados <- jsonlite::fromJSON("OUTPUT/JSON_Planos/Egresados_flat.json")
+df_matriculados <- jsonlite::fromJSON("OUTPUT/JSON_Planos/Matriculados_flat.json")
+
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### 4.3 Pequeña visualización de los json
+El código a ejecutar se encuentra en 'visulización.R' ya que es sobretodo una comprobación de las cargas json. No se ha añadido en .Rmd debido al ser prescindible y ocupar demasiado espacio.
